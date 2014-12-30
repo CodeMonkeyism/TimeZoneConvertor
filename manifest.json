@@ -5,7 +5,7 @@
   "version": "0.0.1",  
   "description": "Convert Time Zone",  
   "browser_action": {  
-    "default_icon": "Capture.PNG" ,
+    "default_icon": "libs/icon.PNG" ,
     "default_title": "Time Zone Convertor",
     "default_popup": "popup.html"
   }  
